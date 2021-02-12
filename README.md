@@ -1,4 +1,4 @@
-# Self-Supervised-Learning-Overview
+# Self-Supervised Learning
 
 This repo contains a curated list of self-supervised learning papers with a focus on representation learning and clustering.
 
