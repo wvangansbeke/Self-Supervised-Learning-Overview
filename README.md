@@ -10,10 +10,8 @@ This repo contains a curated list of self-supervised learning papers with a focu
     - [Proxy tasks](#proxy-tasks)
     - [Clustering](#clustering)
   - [Dense-Level Representations](#dense-level-representation-learning)
-- [Classification](#self-supervised-classification)
-- [Semantic Segmentation](#self-supervised-semantic-segmentation)
+- [Image Clustering](#image-clustering)
 - [Geometry](#geometry)
-
   
 ## Representation Learning
 
@@ -87,30 +85,25 @@ This repo contains a curated list of self-supervised learning papers with a focu
 - C. Doersch, A. Gupta, A. Efros, *[Unsupervised Visual Representation Learning by Context Prediction](https://arxiv.org/abs/1505.05192)*, ICCV, 2015. [[Code](http://graphics.cs.cmu.edu/projects/deepContext/)]
 
 ### Dense-Level Representation Learning
-
+- W. Van Gansbeke, S. Vandenhende, S. Georgoulis, L. Van Gool, *[Unsupervised Semantic Segmentation by Contrasting Object Mask Proposals]()*, Arxiv, 2021. [[Code](https://github.com/wvangansbeke/Unsupervised-Semantic-Segmentation)]
 - X. Wang, R. Zhang, C. Shen, T. Kong, L. Li, *[Dense Contrastive Learning for Self-Supervised Visual Pre-Training](https://arxiv.org/abs/2011.09157)*, Arxiv, 2020.
 - Z. Xie, Y. Lin, Z. Zhang, Y. Cao, S. Lin, H. Hu, *[Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning](https://arxiv.org/abs/2011.10043)*, Arxiv, 2020. [[Code](https://github.com/lucidrains/pixel-level-contrastive-learning)
 - A. Jabri, A, Owens, A. Efros, *[Space-Time Correspondence as a Contrastive Random Walk](https://arxiv.org/abs/2006.14613)*, NIPS, 2020. [[Code](https://github.com/ajabri/videowalk)]
 - P. O. Pinheiro, A. Almahairi, R. Y. Benmalek, F. Golemo, A. Courville, *[Unsupervised Learning of Dense Visual Representations](https://arxiv.org/abs/2011.05499)*, NIPS, 2020. 
+- X. Ji, J. F. Henriques, A. Vedaldi, *[Invariant Information Clustering for Unsupervised Image Classification and Segmentation](https://arxiv.org/abs/1807.06653)*, ICCV, 2019. [[Code](https://github.com/xu-ji/IIC)]
 - X. Wang, A. Jabri, A. Efros. *[Learning Correspondence from the Cycle-Consistency of
 Time](https://arxiv.org/abs/1903.07593)*, CVPR, 2019. [[Code](https://github.com/xiaolonw/TimeCycle)]
 - T. Zhou, P. Krahenbuhl, M. Aubry, Q. Huang, A. Efros.*[Learning dense
 correspondence via 3d-guided cycle consistency](https://arxiv.org/abs/1604.05383)*, CVPR, 2016.
 
-## Self-Supervised Classification
+## Image Clustering
 - W. Van Gansbeke, S. Vandenhende, S. Georgoulis, M. Proesmans, L. Van Gool, *[SCAN: Learning to Classify Images without Labels](https://arxiv.org/abs/2005.12320)*, ECCV, 2020. [[Code](https://github.com/wvangansbeke/Unsupervised-Classification)]
 - X. Ji, J. F. Henriques, A. Vedaldi, *[Invariant Information Clustering for Unsupervised Image Classification and Segmentation](https://arxiv.org/abs/1807.06653)*, ICCV, 2019. [[Code](https://github.com/xu-ji/IIC)]
 - J. Chang, L. Wang, G. Meng, S. Xiang, C. Pan, *[Deep Adaptive Image Clustering](https://openaccess.thecvf.com/content_iccv_2017/html/Chang_Deep_Adaptive_Image_ICCV_2017_paper.html)*, ICCV, 2017. [[Code](https://github.com/vector-1127/DAC)]
 - J. Yang, D. Parikh, D. Batra, *[Joint unsupervised learning of deep representations and image clusters](https://arxiv.org/abs/1604.03628)*, CVPR, 2016. [[Code](https://github.com/jwyang/JULE.torch)]
 - J. Xie, R. Girshick, A. Farhadi, *[Unsupervised Deep Embedding for Clustering Analysis](https://arxiv.org/pdf/1511.06335.pdf)*, ICML, 2016. [[Code](https://github.com/piiswrong/dec)]
 
-## Self-Supervised Semantic Segmentation
-- W. Van Gansbeke, S. Vandenhende, S. Georgoulis, L. Van Gool, *[Unsupervised Semantic Segmentation by Contrasting Object Mask Proposals]()*, Arxiv, 2021. [[Code](https://github.com/wvangansbeke/Unsupervised-Semantic-Segmentation)]
-- X. Ji, J. F. Henriques, A. Vedaldi, *[Invariant Information Clustering for Unsupervised Image Classification and Segmentation](https://arxiv.org/abs/1807.06653)*, ICCV, 2019. [[Code](https://github.com/xu-ji/IIC)]
-- Y. Ouali, C. Hudelot, M. Tami, *[Autoregressive Unsupervised Image Segmentation](https://arxiv.org/abs/2007.08247)*, ECCV, 2020.
-
 ## Geometry
-
 - C. Godard, O. M. Aodha, M. Firman, G. J. Brostow, *[Digging into Self-Supervised Monocular Depth Prediction](https://arxiv.org/abs/1806.01260)*, ICCV, 2019. [[Code](https://github.com/nianticlabs/monodepth2)]
 - J. Wang, J. Jiao, L. Bao, S. He, Y. Liu, W. Liu, *[SelFlow: Self-Supervised Learning of Optical Flow](https://arxiv.org/abs/1904.09117)*, CVPR, 2019. [[Code](https://github.com/ppliuboy/SelFlow)]
 - C. Godard, O. <. Aodha, G. J. Brostow, *[Unsupervised Monocular Depth Estimation with Left-Right Consistency](https://openaccess.thecvf.com/content_cvpr_2017/papers/Godard_Unsupervised_Monocular_Depth_CVPR_2017_paper.pdf)*, CVPR, 2017. [[Code](https://github.com/mrharicot/monodepth)]
