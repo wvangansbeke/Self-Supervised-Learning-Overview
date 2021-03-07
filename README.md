@@ -40,7 +40,7 @@ This repo contains a curated list of self-supervised learning papers with a focu
 - P. Bachman, R. D. Hjelm, W. Buchwalter, *[Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/pdf/1906.00910)*, NIPS, 2019. [[Code](https://github.com/Philip-Bachman/amdim-public)]
 - R. D. Hjelm, A. Fedorov, S. Lavoie-Marchildon, K. Grewal, P. Bachman, A. Trischler, Y. Bengio, *[Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670)*, ICLR, 2019. [[Code](https://github.com/rdevon/DIM)]
 - J. Huang, Q. Dong, S. Gong, X. Zhu, *[Unsupervised Deep Learning by Neighbourhood Discovery](http://proceedings.mlr.press/v97/huang19b.html)*, ICML, 2019. [[Code](https://github.com/Raymond-sci/AND)] 
-- A. Oord, Y. Li, O. Vinyals, *[Representation Learning with Contrastive Predictive Coding].(https://arxiv.org/abs/1807.03748)*, Arxiv, 2018.
+- A. Oord, Y. Li, O. Vinyals, *[Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)*, Arxiv, 2018.
 - Z. Wu, Y. Xiong and X. Y. Stella, D. Lin, *[Unsupervised Feature Learning via Non-parameteric Instance Discrimination](https://arxiv.org/pdf/1805.01978.pdf)*, CVPR, 2018. [[Code](https://github.com/zhirongw/lemniscate.pytorch)]
 - Wang, Xiaolong and He, Kaiming and Gupta, Abhinav, *[Transitive Invariance for Self-supervised Visual Representation Learning](https://arxiv.org/pdf/1708.02901.pdf)*, ICCV, 2017.
 - Li, Dong and Hung, Wei-Chih and Huang, Jia-Bin and Wang, Shengjin and Ahuja, Narendra and Yang, Ming-Hsuan, *[Unsupervised Visual Representation Learning by Graph-based Consistent Constraints](http://faculty.ucmerced.edu/mhyang/papers/eccv16_feature_learning.pdf)*, ECCV, 2016. [[Code](https://github.com/dongli12/FeatureLearning)]
@@ -87,7 +87,7 @@ This repo contains a curated list of self-supervised learning papers with a focu
 ### Dense-Level Representation Learning
 - W. Van Gansbeke, S. Vandenhende, S. Georgoulis, L. Van Gool, *[Unsupervised Semantic Segmentation by Contrasting Object Mask Proposals]()*, Arxiv, 2021. [[Code](https://github.com/wvangansbeke/Unsupervised-Semantic-Segmentation)]
 - X. Wang, R. Zhang, C. Shen, T. Kong, L. Li, *[Dense Contrastive Learning for Self-Supervised Visual Pre-Training](https://arxiv.org/abs/2011.09157)*, Arxiv, 2020.
-- Z. Xie, Y. Lin, Z. Zhang, Y. Cao, S. Lin, H. Hu, *[Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning](https://arxiv.org/abs/2011.10043)*, Arxiv, 2020. [[Code](https://github.com/lucidrains/pixel-level-contrastive-learning)
+- Z. Xie, Y. Lin, Z. Zhang, Y. Cao, S. Lin, H. Hu, *[Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning](https://arxiv.org/abs/2011.10043)*, Arxiv, 2020. [[Code](https://github.com/lucidrains/pixel-level-contrastive-learning)]
 - A. Jabri, A, Owens, A. Efros, *[Space-Time Correspondence as a Contrastive Random Walk](https://arxiv.org/abs/2006.14613)*, NIPS, 2020. [[Code](https://github.com/ajabri/videowalk)]
 - P. O. Pinheiro, A. Almahairi, R. Y. Benmalek, F. Golemo, A. Courville, *[Unsupervised Learning of Dense Visual Representations](https://arxiv.org/abs/2011.05499)*, NIPS, 2020. 
 - X. Ji, J. F. Henriques, A. Vedaldi, *[Invariant Information Clustering for Unsupervised Image Classification and Segmentation](https://arxiv.org/abs/1807.06653)*, ICCV, 2019. [[Code](https://github.com/xu-ji/IIC)]
