@@ -29,7 +29,7 @@ This repo contains a curated list of self-supervised learning papers with a focu
 
 #### Contrastive Learning 
 
-- X. Chen, K. He, *[Exploring Simple Siamese Representation Learning](https://arxiv.org/pdf/2011.10566)*, Arxiv, 2020. 
+- X. Chen, K. He, *[Exploring Simple Siamese Representation Learning](https://arxiv.org/pdf/2011.10566)*, CVPR, 2021. 
 - J. Grill, F. Strub, F. Altché, C. Tallec, P. H. Richemond, E. Buchatskaya, C. Doersch, B. A. Pires, Z. Guo, M. G. Azar, B. Piot, K. Kavukcuoglu, R. Munos, M. Valko, *[Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://arxiv.org/abs/2006.07733)*, NIPS, 2020. [[Code](https://github.com/deepmind/deepmind-research/tree/master/byol)]
 - T. Chen, S. Kornblith, M. Norouzi, G. Hinton, *[A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)*, ICML, 2020. [[Code](https://github.com/google-research/simclr)]
 - M. Tschannen, J. Djolonga, P. K. Rubenstein, S. Gelly, M. Lucic, *[On Mutual Information Maximization for Representation Learning](https://arxiv.org/pdf/1907.13625.pdf)*, ICLR, 2020. [[Code](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning)]
@@ -73,7 +73,6 @@ This repo contains a curated list of self-supervised learning papers with a focu
 - D. Pathak, R. Girshick, P. Dollar, T. Darrell, B. Hariharan, *[Learning Features by Watching Objects Move](https://people.eecs.berkeley.edu/~pathak/papers/cvpr17.pdf)*, CVPR, 2017. [[Code](https://people.eecs.berkeley.edu/~pathak/unsupervised_video/)] 
 - G. Larsson, M. Maire, G. Shakhnarovich, *[Colorization as a Proxy Task for Visual Understanding](http://arxiv.org/abs/1703.04044)*, CVPR, 2017. [[Code](http://people.cs.uchicago.edu/~larsson/color-proxy/)]
 - R. S. Cruz, B. Fernando, A. Cherian, S. Gould, *[DeepPermNet: Visual Permutation Learning](https://arxiv.org/pdf/1704.02729.pdf)*, CVPR, 2017. [[Code](https://github.com/rfsantacruz/deep-perm-net)]
-- R. Zhang, P. Isola, A. Efros, *[Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction](https://arxiv.org/abs/1611.09842)*, CVPR, 2017. [[Code](https://github.com/richzhang/splitbrainauto)]
 - H. Lee, J. Huang, M. K. Singh, M. Yang, *[Unsupervised Representation Learning by Sorting Sequences](https://arxiv.org/pdf/1708.01246.pdf)*, ICCV, 2017. [[Code](https://github.com/HsinYingLee/OPN)]
 - P. Bojanowski, A. Joulin, *[Unsupervised Learning by Predicting Noise](https://arxiv.org/abs/1704.05310)*, ICML, 2017.  [[Code](https://github.com/facebookresearch/noise-as-targets)]
 - M. Noroozi, P. Favaro, *[Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles](http://arxiv.org/abs/1603.09246)*, ECCV, 2016.
