@@ -28,7 +28,7 @@ This repo contains a curated list of self-supervised learning papers with a focu
 ### Image-Level Representation Learning
 
 #### Contrastive Learning 
-- P. Goyal, M. Caron B. Lefaudeux, M. Xu, P. Wang, V. Pai, M. Singh, V. Liptchinsky, I. Misra, A. Joulin, P. Bojanowski, *[Self-supervised Pretraining of Visual Features in the Wild](https://arxiv.org/abs/2103.01988)*, Arxiv, 2021.
+- P. Goyal, M. Caron, B. Lefaudeux, M. Xu, P. Wang, V. Pai, M. Singh, V. Liptchinsky, I. Misra, A. Joulin, P. Bojanowski, *[Self-supervised Pretraining of Visual Features in the Wild](https://arxiv.org/abs/2103.01988)*, Arxiv, 2021.
 - X. Chen, K. He, *[Exploring Simple Siamese Representation Learning](https://arxiv.org/pdf/2011.10566)*, CVPR, 2021. 
 - J. Grill, F. Strub, F. Altché, C. Tallec, P. H. Richemond, E. Buchatskaya, C. Doersch, B. A. Pires, Z. Guo, M. G. Azar, B. Piot, K. Kavukcuoglu, R. Munos, M. Valko, *[Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://arxiv.org/abs/2006.07733)*, NIPS, 2020. [[Code](https://github.com/deepmind/deepmind-research/tree/master/byol)]
 - T. Chen, S. Kornblith, M. Norouzi, G. Hinton, *[A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)*, ICML, 2020. [[Code](https://github.com/google-research/simclr)]
