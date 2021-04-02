@@ -9,7 +9,7 @@ This repo contains a curated list of self-supervised learning papers with a focu
     - [Contrastive Learning](#contrastive-learning)
     - [Proxy tasks](#proxy-tasks)
     - [Clustering](#clustering)
-  - [Dense-Level Representations](#dense-level-representation-learning)
+  - [Dense Representations](#dense-level-representation-learning)
 - [Image Clustering](#image-clustering)
 - [Geometry](#geometry)
   
@@ -28,7 +28,7 @@ This repo contains a curated list of self-supervised learning papers with a focu
 ### Image-Level Representation Learning
 
 #### Contrastive Learning 
-
+- P. Goyal, M. Caron B. Lefaudeux, M. Xu, P. Wang, V. Pai, M. Singh, V. Liptchinsky, I. Misra, A. Joulin, P. Bojanowski, *[Self-supervised Pretraining of Visual Features in the Wild](https://arxiv.org/abs/2103.01988)*, Arxiv, 2021.
 - X. Chen, K. He, *[Exploring Simple Siamese Representation Learning](https://arxiv.org/pdf/2011.10566)*, CVPR, 2021. 
 - J. Grill, F. Strub, F. Altché, C. Tallec, P. H. Richemond, E. Buchatskaya, C. Doersch, B. A. Pires, Z. Guo, M. G. Azar, B. Piot, K. Kavukcuoglu, R. Munos, M. Valko, *[Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://arxiv.org/abs/2006.07733)*, NIPS, 2020. [[Code](https://github.com/deepmind/deepmind-research/tree/master/byol)]
 - T. Chen, S. Kornblith, M. Norouzi, G. Hinton, *[A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)*, ICML, 2020. [[Code](https://github.com/google-research/simclr)]
@@ -83,7 +83,7 @@ This repo contains a curated list of self-supervised learning papers with a focu
 - P. Agrawal, J. Carreira, J. Malik, *[Learning to See by Moving](http://arxiv.org/abs/1505.01596)*, ICCV, 2015. [[Code](https://people.eecs.berkeley.edu/~pulkitag/lsm/lsm.html)]
 - C. Doersch, A. Gupta, A. Efros, *[Unsupervised Visual Representation Learning by Context Prediction](https://arxiv.org/abs/1505.05192)*, ICCV, 2015. [[Code](http://graphics.cs.cmu.edu/projects/deepContext/)]
 
-### Dense-Level Representation Learning
+### Dense Representation Learning
 - W. Van Gansbeke, S. Vandenhende, S. Georgoulis, L. Van Gool, *[Unsupervised Semantic Segmentation by Contrasting Object Mask Proposals]()*, Arxiv, 2021. [[Code](https://github.com/wvangansbeke/Unsupervised-Semantic-Segmentation)]
 - X. Wang, R. Zhang, C. Shen, T. Kong, L. Li, *[Dense Contrastive Learning for Self-Supervised Visual Pre-Training](https://arxiv.org/abs/2011.09157)*, Arxiv, 2020.
 - Z. Xie, Y. Lin, Z. Zhang, Y. Cao, S. Lin, H. Hu, *[Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning](https://arxiv.org/abs/2011.10043)*, Arxiv, 2020. [[Code](https://github.com/lucidrains/pixel-level-contrastive-learning)]
