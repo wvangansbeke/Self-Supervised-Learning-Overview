@@ -7,6 +7,7 @@ This repo contains a curated list of self-supervised learning papers with a focu
   - [Analysis](#analysis)
   - [Image-Level Representations](#image-level-representation-learning)
     - [Contrastive Learning](#contrastive-learning)
+    - [Masked Image Modeling](#masked-image-modeling)
     - [Proxy tasks](#proxy-tasks)
     - [Clustering](#clustering)
   - [Dense Representations](#dense-level-representation-learning)
@@ -16,7 +17,7 @@ This repo contains a curated list of self-supervised learning papers with a focu
 ## Representation Learning
 
 ### Analysis
-
+- W. Van Gansbeke, S. Vandenhende, S. Georgoulis, L. Van Gool, *[Revisiting Contrastive Methods for Unsupervised Learning of Visual Representation](https://arxiv.org/abs/2106.05967)*, NeurIPS, 2021. [[Code](https://github.com/wvangansbeke/Revisiting-Contrastive-SSL)]
 - R. Geirhos, K. Narayanappa, B. Mitzkus, M. Bethge, F. A. Wichmann, W. Brendel, *[On the surprising similarities between supervised and self-supervised models](https://arxiv.org/abs/2010.08377)*, ICLR, 2021.
 - X. Liu, F. Zhang, Z. Hou, L. Mian, Z. Wang, J. Zhang, J. Tang, *[Self-supervised Learning: Generative or Contrastive](https://arxiv.org/abs/2006.08218v4)*, Arxiv, 2020.
 - L. Jing, Y. Tian, *[Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://arxiv.org/abs/1902.06162)*, T-PAMI, 2020.
@@ -28,9 +29,10 @@ This repo contains a curated list of self-supervised learning papers with a focu
 ### Image-Level Representation Learning
 
 #### Contrastive Learning 
+- X. Chen, S. Xie, K. He, *[An Empirical Study of Training Self-Supervised Vision Transformers]*, ICCV, 2021.
 - P. Goyal, M. Caron, B. Lefaudeux, M. Xu, P. Wang, V. Pai, M. Singh, V. Liptchinsky, I. Misra, A. Joulin, P. Bojanowski, *[Self-supervised Pretraining of Visual Features in the Wild](https://arxiv.org/abs/2103.01988)*, Arxiv, 2021.
 - X. Chen, K. He, *[Exploring Simple Siamese Representation Learning](https://arxiv.org/pdf/2011.10566)*, CVPR, 2021. 
-- J. Grill, F. Strub, F. Altché, C. Tallec, P. H. Richemond, E. Buchatskaya, C. Doersch, B. A. Pires, Z. Guo, M. G. Azar, B. Piot, K. Kavukcuoglu, R. Munos, M. Valko, *[Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://arxiv.org/abs/2006.07733)*, NIPS, 2020. [[Code](https://github.com/deepmind/deepmind-research/tree/master/byol)]
+- J. Grill, F. Strub, F. Altché, C. Tallec, P. H. Richemond, E. Buchatskaya, C. Doersch, B. A. Pires, Z. Guo, M. G. Azar, B. Piot, K. Kavukcuoglu, R. Munos, M. Valko, *[Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://arxiv.org/abs/2006.07733)*, NeurIPS, 2020. [[Code](https://github.com/deepmind/deepmind-research/tree/master/byol)]
 - T. Chen, S. Kornblith, M. Norouzi, G. Hinton, *[A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)*, ICML, 2020. [[Code](https://github.com/google-research/simclr)]
 - M. Tschannen, J. Djolonga, P. K. Rubenstein, S. Gelly, M. Lucic, *[On Mutual Information Maximization for Representation Learning](https://arxiv.org/pdf/1907.13625.pdf)*, ICLR, 2020. [[Code](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning)]
 - Y. Tian, D. Krishnan, P. Isola, *[Contrastive Multiview Coding](https://arxiv.org/abs/1906.05849)*, ECCV, 2020. [[Code](https://github.com/HobbitLong/CMC/)]
@@ -55,6 +57,12 @@ This repo contains a curated list of self-supervised learning papers with a focu
 - M. Caron, P. Bojanowski, A. Joulin, M. Douze, *[Deep Clustering for Unsupervised Learning of Visual Features](https://research.fb.com/wp-content/uploads/2018/09/Deep-Clustering-for-Unsupervised-Learning-of-Visual-Features.pdf)*, ECCV, 2018. [[Code](https://github.com/facebookresearch/deepcluster)]
 - J. Yang, D. Parikh, D. Batra, *[Joint Unsupervised Learning of Deep Representations and Image Clusters](https://arxiv.org/pdf/1604.03628.pdf)*, CVPR, 2016. [[Code](https://github.com/jwyang/JULE.torch)]
 - J. Xie, R. Girshick, A. Farhadi, *[Unsupervised Deep Embedding for Clustering Analysis](https://arxiv.org/pdf/1511.06335.pdf)*, ICML, 2016. [[Code](https://github.com/piiswrong/dec)]
+
+#### Masked Image Modeling
+- H. Bao, L. Dong, F. Wei, *[BEIT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254)*, Arxiv, 2021.
+- K. He, X. Chen, S. Xie, Y. Li, P. Dollár, R. Girshick, *[Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)*, Arxiv, 2021.
+- Z. Xie Z. Zhang, Y. Cao, Y. Lin, J. Bao, Z. Yao, Q. Dai, H. Hu *[SimMIM: A Simple Framework for Masked Image Modeling](https://arxiv.org/abs/2111.09886)*, Arxiv, 2021.
+- M. Chen, A. Radford, R. Child, J. Wu, H. Jun, P. Dhariwal, D. Luan, I Sutskever, *[Generative Pretraining from Pixels](http://proceedings.mlr.press/v119/chen20s.html)*, ICML, 2020.
 
 #### Proxy Tasks
   
