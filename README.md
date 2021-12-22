@@ -1,6 +1,6 @@
 # Self-Supervised Learning
 
-This repo contains a curated list of self-supervised learning papers with a focus on representation learning and clustering.
+This repo contains a curated list of self-supervised learning papers with a focus on representation learning and clustering. Feel free to add pull requests or open issues to suggest papers.  
 
 ## Table of Contents
 - [Representation Learning](#representation-learning)
