@@ -29,7 +29,7 @@ This repo contains a curated list of self-supervised learning papers with a focu
 ### Image-Level Representation Learning
 
 #### Contrastive Learning 
-- X. Chen, S. Xie, K. He, *[An Empirical Study of Training Self-Supervised Vision Transformers]*, ICCV, 2021.
+- X. Chen, S. Xie, K. He, *[An Empirical Study of Training Self-Supervised Vision Transformers](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_An_Empirical_Study_of_Training_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf)*, ICCV, 2021.
 - P. Goyal, M. Caron, B. Lefaudeux, M. Xu, P. Wang, V. Pai, M. Singh, V. Liptchinsky, I. Misra, A. Joulin, P. Bojanowski, *[Self-supervised Pretraining of Visual Features in the Wild](https://arxiv.org/abs/2103.01988)*, Arxiv, 2021.
 - X. Chen, K. He, *[Exploring Simple Siamese Representation Learning](https://arxiv.org/pdf/2011.10566)*, CVPR, 2021. 
 - J. Grill, F. Strub, F. Altché, C. Tallec, P. H. Richemond, E. Buchatskaya, C. Doersch, B. A. Pires, Z. Guo, M. G. Azar, B. Piot, K. Kavukcuoglu, R. Munos, M. Valko, *[Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://arxiv.org/abs/2006.07733)*, NeurIPS, 2020. [[Code](https://github.com/deepmind/deepmind-research/tree/master/byol)]
