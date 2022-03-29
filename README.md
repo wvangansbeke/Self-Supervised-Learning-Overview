@@ -59,6 +59,9 @@ This repo contains a curated list of self-supervised learning papers with a focu
 - J. Xie, R. Girshick, A. Farhadi, *[Unsupervised Deep Embedding for Clustering Analysis](https://arxiv.org/pdf/1511.06335.pdf)*, ICML, 2016. [[Code](https://github.com/piiswrong/dec)]
 
 #### Masked Image Modeling
+
+- X. Dong, J. Bao, T. Zhang, D. Chen, W. Zhang, L. Yuan, D. Chen, F. Wen, N. Yu, *[PeCo: Perceptual Codebook for BERT Pre-training of Vision Transformers](https://arxiv.org/abs/2111.12710)*, Arxiv, 2022.
+- R. Wang, D. Chen, Z. Wu, Y. Chen, X. Dai, M. Liu, Y. Jiang, L. Zhou, L. Yuan, *[BEVT: BERT Pretraining of Video Transformers](https://arxiv.org/abs/2112.01529)*, CVPR, 2022.
 - H. Bao, L. Dong, F. Wei, *[BEIT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254)*, Arxiv, 2021.
 - K. He, X. Chen, S. Xie, Y. Li, P. Dollár, R. Girshick, *[Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)*, Arxiv, 2021.
 - Z. Xie Z. Zhang, Y. Cao, Y. Lin, J. Bao, Z. Yao, Q. Dai, H. Hu *[SimMIM: A Simple Framework for Masked Image Modeling](https://arxiv.org/abs/2111.09886)*, Arxiv, 2021.
